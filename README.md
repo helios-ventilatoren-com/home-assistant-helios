@@ -1,4 +1,4 @@
-# Home Assistant Integration - Helio Ventilatoren
+# Home Assistant Integration - Helios Ventilatoren
 
 Home Assistant integration for Helios Ventilatoren 
 
